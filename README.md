@@ -3,6 +3,8 @@
 A compact set of **Google Colab notebooks** for fine-tuning and aligning small-to-mid LLMs with [Unsloth](https://github.com/unslothai/unsloth).  
 These notebooks cover **full fine-tuning, LoRA/QLoRA, preference learning (DPO), GRPO for reasoning on GSM8K**, and **continued pretraining**.
 
+Walkthrough video link: https://drive.google.com/file/d/1ITNVUS7i1a7fm_bxW0-3hPsc5rn0HDa1/view?usp=sharing
+
 > 📝 Tip: If GitHub ever fails to render a notebook, use the **Open in Colab** buttons below — they always work.
 
 ---
